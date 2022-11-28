@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectCovid_19</string>
+    <string name="title_activity_centers_map">Map</string>
+    <string name="my_appointment_information">My appointment information</string>
+</resources>
